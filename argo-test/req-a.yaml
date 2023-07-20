@@ -8,5 +8,5 @@ metadata:
 spec:
   containers:
   - name: req-a
-    image: 120763833592.dkr.ecr.us-west-2.amazonaws.com/req-a:v4
+    image: 120763833592.dkr.ecr.us-west-2.amazonaws.com/req-a:v5
 
